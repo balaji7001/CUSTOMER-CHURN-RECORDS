@@ -73,4 +73,4 @@ This project strengthened my skills in:
 - Dashboard storytelling
 - Business-driven Excel visualization
 ## Dashboard Preview
-
+<img width="800" height="600" alt="image" src="https://github.com/balaji7001/CUSTOMER-CHURN-RECORDS/blob/main/Customer%20Churn%20Record%20-%20Excel%20Dashboard.png" />
